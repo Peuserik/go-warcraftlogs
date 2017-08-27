@@ -4,8 +4,8 @@ type Region string
 
 const (
 	Region_EU Region = "EU"
-	Region_US        = "US"
-	Region_KR        = "KR"
-	Region_TW        = "TW"
-	Region_CN        = "CN"
+	Region_US Region = "US"
+	Region_KR Region = "KR"
+	Region_TW Region = "TW"
+	Region_CN Region = "CN"
 )

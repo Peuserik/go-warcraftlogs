@@ -1,0 +1,5 @@
+package: github.com/AlexejK/go-warcraftlogs
+license: MIT
+
+testImport:
+- package: github.com/stretchr/testify

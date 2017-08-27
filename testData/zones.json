@@ -1,0 +1,141 @@
+[
+    {
+        "id": 3,
+        "name": "Challenge Modes",
+        "frozen": true,
+        "encounters": [
+            {
+                "id": 11182,
+                "name": "Auchindoun"
+            },
+            {
+                "id": 11175,
+                "name": "Bloodmaul Slag Mines"
+            },
+            {
+                "id": 11279,
+                "name": "The Everbloom"
+            },
+            {
+                "id": 11208,
+                "name": "Grimrail Depot"
+            },
+            {
+                "id": 11195,
+                "name": "Iron Docks"
+            },
+            {
+                "id": 11176,
+                "name": "Shadowmoon Burial Grounds"
+            },
+            {
+                "id": 11209,
+                "name": "Skyreach"
+            },
+            {
+                "id": 11358,
+                "name": "Upper Blackrock Spire"
+            }
+        ],
+        "brackets": [
+            {
+                "id": 1,
+                "name": "6.0"
+            },
+            {
+                "id": 2,
+                "name": "6.1"
+            },
+            {
+                "id": 3,
+                "name": "6.2"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Tomb of Sargeras",
+        "frozen": false,
+        "encounters": [
+            {
+                "id": 2032,
+                "name": "Goroth"
+            },
+            {
+                "id": 2048,
+                "name": "Demonic Inquisition"
+            },
+            {
+                "id": 2036,
+                "name": "Harjatan"
+            },
+            {
+                "id": 2037,
+                "name": "Mistress Sassz'ine"
+            },
+            {
+                "id": 2050,
+                "name": "Sisters of the Moon"
+            },
+            {
+                "id": 2054,
+                "name": "The Desolate Host"
+            },
+            {
+                "id": 2052,
+                "name": "Maiden of Vigilance"
+            },
+            {
+                "id": 2038,
+                "name": "Fallen Avatar"
+            },
+            {
+                "id": 2051,
+                "name": "Kil'jaeden"
+            }
+        ],
+        "brackets": [
+            {
+                "id": 22,
+                "name": "925-927"
+            },
+            {
+                "id": 23,
+                "name": "928-930"
+            },
+            {
+                "id": 24,
+                "name": "931-933"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Mythic+ 7.2.5",
+        "frozen": true,
+        "encounters": [
+            {
+                "id": 211516,
+                "name": "The Arcway"
+            },
+            {
+                "id": 211501,
+                "name": "Black Rook Hold"
+            }
+        ],
+        "brackets": [
+            {
+                "id": 1,
+                "name": "Zero"
+            },
+            {
+                "id": 2,
+                "name": "<img title='Bolstering' class='tiny-icon' src='\/img\/icons\/abilities\/ability_warrior_battleshout.jpg'>"
+            },
+            {
+                "id": 7,
+                "name": ""
+            }
+        ]
+    }
+]
