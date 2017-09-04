@@ -1,7 +1,7 @@
 package warcraftlogs
 
 import (
-	"github.com/AlexejK/go-warcraftlogs/types/warcraft"
+	"github.com/alexejk/go-warcraftlogs/types/warcraft"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

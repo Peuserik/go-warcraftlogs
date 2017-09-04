@@ -1,4 +1,4 @@
-package: github.com/AlexejK/go-warcraftlogs
+package: github.com/alexejK/go-warcraftlogs
 license: MIT
 
 testImport:

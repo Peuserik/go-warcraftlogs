@@ -1,6 +1,6 @@
 package types
 
-import "github.com/AlexejK/go-warcraftlogs/types/warcraft"
+import "github.com/alexejk/go-warcraftlogs/types/warcraft"
 
 type Zone struct {
 	Id         *int64
