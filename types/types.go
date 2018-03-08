@@ -24,8 +24,8 @@ type Report struct {
 	Title     *string
 	Owner     *string
 	Zone      *int64
-	StartTime *int64
-	EndTime   *int64
+  StartTime *int64 `json:"start"`
+  EndTime   *int64 `json:"end"`
 }
 
 type Fight struct {
