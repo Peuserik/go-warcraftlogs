@@ -1,7 +1,7 @@
 package warcraftlogs
 
 import (
-	"github.com/alexejk/go-warcraftlogs/types/warcraft"
+	"github.com/peuserik/go-warcraftlogs/types/warcraft"
 )
 
 // Classes provides information about all available classes in game and their specializations.

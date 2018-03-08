@@ -2,8 +2,8 @@ package warcraftlogs
 
 import (
 	"fmt"
-	"github.com/alexejk/go-warcraftlogs/types"
-	"github.com/alexejk/go-warcraftlogs/types/warcraft"
+	"github.com/peuserik/go-warcraftlogs/types"
+	"github.com/peuserik/go-warcraftlogs/types/warcraft"
 )
 
 // ReportsForGuild returns a list of all reports available for provided guild.
